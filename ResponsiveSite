@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>This is a Responsive Website</title>
+        <meta charset="UTF-8">
+        <meta name="description" content="Hey Google, this is a responsive website!">
+        <link rel="icon" href="favicon.ico"> <!--Images were from Zenva.com and have been included with the code but I do not own them-->
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div class="nav">
+            <ul>
+                <li>Home</li>
+                <li>Services</li>
+                <li>Support</li>
+                <li>Contact</li>
+            </ul>
+        </div>
+        <div class="wrapper">
+            <div class="image-area">
+                <div class="image-text centered-container">Welcome to the Responsive Website</div>
+            </div>
+            <div class="intro-text centered-container">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt nulla in diam ornare auctor. Fusce id augue tristique, varius nunc id, luctus velit.</div>
+            <div class="services centered-container">
+                <div class="single-service">
+                    <img src="images/zenva-banner.png"/>
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt nulla in diam ornare auctor. Fusce id augue tristique, varius nunc id, luctus velit.
+                    </p>
+                </div>
+                <div class="single-service">
+                    <img src="images/zenva-banner.png"/>
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt nulla in diam ornare auctor. Fusce id augue tristique, varius nunc id, luctus velit.
+                    </p>
+                </div>
+                <div class="single-service">
+                    <img src="images/zenva-banner.png"/>
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt nulla in diam ornare auctor. Fusce id augue tristique, varius nunc id, luctus velit.
+                    </p>
+                </div>
+                <div class="single-service">
+                    <img src="images/zenva-banner.png"/>
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt nulla in diam ornare auctor. Fusce id augue tristique, varius nunc id, luctus velit.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
